@@ -1,0 +1,1 @@
+# C_BOWI_43-SAP-Certified-Application-Associate-SAP-BusinessObjects-Web-Intelligence-4.3-
